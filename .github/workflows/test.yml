@@ -26,7 +26,7 @@ jobs:
       matrix:
         include:
           - userName: yinstall
-            repoName: TVBox
+            repoName: TVBoxOS
             branchName: main
     steps:
       - name: Checkout
