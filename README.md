@@ -8,4 +8,4 @@
 ## Credits
 This repo relies on the following third-party projects:
 - [CatVodTVOfficial/TVBoxOSC](https://github.com/CatVodTVOfficial/TVBoxOSC)
-- [yinstall/TVBoxOSC](https://github.com/yinstall/TVBoxOSC) (Updated: 2571652dc60649e166dd70ac8cd51dd98e0cd6c8)
+- [yinstall/TVBoxOSC](https://github.com/yinstall/TVBoxOSC) (Updated: e1d3fc7576e704c7c1e131cf6f30c192ace3df10)
